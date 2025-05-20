@@ -22,7 +22,7 @@ body {
   position: absolute;
   font: var(--font-size) var(--font-family);
   color: var(--color-text);
-  width:100%;
+  width:100%; 
   height:auto;
   overflow-y:auto;
   align-items: flex-start;
@@ -552,6 +552,7 @@ blockquote {
   font-size: 20px;
   font-family: garamond;
   font-style: italic;
+  padding-top: 1%;
   color: rgb(255, 255, 255);
   text-shadow: 0 0 8px rgba(90, 132, 216, 0.9), 0 0 8px rgb(240, 240, 240);
   text-shadow: 0 0 2px rgb(240, 240, 240), 0 0 2px rgb(240, 240, 240);
